@@ -12,7 +12,6 @@ Results
 Future Improvements
 Contributing
 License
-
 Project Overview
 Customer churn prediction is essential for businesses to understand why customers leave and to implement strategies to retain them. This project uses logistic regression, a classification model suited for binary outcomes, to predict customer churn. The model has been tested on synthetic data, but initial evaluations suggest opportunities for improvement, particularly due to class imbalance.
 
@@ -33,12 +32,8 @@ Copy code
 ├── README.md                # Project documentation
 └── requirements.txt         # Dependencies
 Installation
-Clone the repository:
+Clone the project directory to your local machine.
 
-bash
-Copy code
-git clone https://github.com/yourusername/customer-churn-prediction.git
-cd customer-churn-prediction
 Install dependencies:
 
 bash
@@ -83,5 +78,3 @@ Contributions are welcome! If you’d like to improve this project, feel free to
 
 License
 This project is open-source and available under the MIT License.
-
-
